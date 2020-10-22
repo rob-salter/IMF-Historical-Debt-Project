@@ -9,3 +9,5 @@ Techniques
 - Data cleaning
 - Error handling
 - Data visualisation
+
+Projects can be viewed using nbviewer (https://nbviewer.jupyter.org/) if Github's ipynb glitch continues.
